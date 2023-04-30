@@ -1,0 +1,22 @@
+[
+    {
+      "ParameterKey": "GitHubRepo",
+      "ParameterValue": "codepipeline-ecr-build-sf-execution"
+    },
+    {
+        "ParameterKey": "GitHubBranch",
+        "ParameterValue": "master"
+      },
+      {
+        "ParameterKey": "GitHubToken",
+        "ParameterValue": "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"
+      },
+      {
+        "ParameterKey": "GitHubUser",
+        "ParameterValue": "suahad"
+      },
+      {
+        "ParameterKey": "MlOpsStepFunctionArn",
+        "ParameterValue": "arn:aws:states:eu-west-1:934624764837:stateMachine:MLOpsStepFunction-934624764837"
+      }
+]
